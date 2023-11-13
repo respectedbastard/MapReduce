@@ -3,7 +3,7 @@
 
    1.1 Создать образ докер:
    
-   > docker build -t master .
+   > 'docker build -t master .'
    
 ## 2. Перейти в папку fastapi_slave
 
